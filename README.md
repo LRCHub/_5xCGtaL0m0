@@ -1,4 +1,4 @@
-# LGYankees – Back Wild feat. GIO，Itachi
+# LGYankees – Back Wild feat. GIO，Itachi（feat. GIO，Itachi）
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
