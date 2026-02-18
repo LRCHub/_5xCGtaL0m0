@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Back Wild feat. GIO，Itachi",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-18T16:58:42.298696Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Back Wild feat. GIO, ITACHI",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_Back_Wild_feat._GIO,_ITACHI_LGYankees.txt"
+    }
+  ]
+}
